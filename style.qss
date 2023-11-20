@@ -1,0 +1,15 @@
+*{
+    font-size:15px;
+    font-family:tahoma;
+    margin-top:5px;
+}
+QPushButton{
+    color:blue;
+    padding:15px;
+}
+#danger{
+    color:red;
+}
+QLabel#danger{
+    color:orange;
+}
